@@ -1,9 +1,6 @@
 # Image-Classification-using-CNN
-MAJOR PROJECT DOCUMENTATION
-Image Classification using CNN
--Pawan Surya
 
-Overview : 
+# Overview : 
 This project is an image classifier using Convolutional Neural Networks . The dataset used is the CIFAR-10 dataset . The deployment is done by the Streamlit environment .
 Stepwise brief : 
 1.	Dataset collection : The dataset is the CIFAR-10 dataset which consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
